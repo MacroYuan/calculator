@@ -6,7 +6,7 @@ import java.util.Stack;
  * @Author donglin06
  * @Date 2021/6/9
  **/
-public class CalculatorUtils {
+public class CalculatorUtil {
 
     public static Double calculator(String input) {
         List<String> list = new ArrayList<>();
