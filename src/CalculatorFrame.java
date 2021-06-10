@@ -11,8 +11,8 @@ import java.io.IOException;
  **/
 public class CalculatorFrame extends JFrame implements ActionListener {
     JMenuBar mb;
-    JMenu jm1,jm2;
-    JMenuItem mi11,mi12,mi13,mi21,mi22,mi23;
+    JMenu jm1;
+    JMenuItem mi11,mi12;
     JTextField field;
     JButton[] b=new JButton[20];
 
